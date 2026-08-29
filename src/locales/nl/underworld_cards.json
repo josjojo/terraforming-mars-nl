@@ -57,7 +57,7 @@
 "Action: Pay 20 M€ (STEEL MAY BE USED). Pick a valid space for a city on Mars. Excavate the underground resource in that space, if possible. Then place a city there.": "ACTIE: Betaal 20 M€ (STAAL MAG WORDEN GEBRUIKT). Kies een geldig veld voor een stad op Mars. Graaf de ondergrondse grondstof op dat veld op, indien mogelijk. Plaats daar daarna een stad.",
 
 "Detective TV Series": "Detectiveserie",
-"Effect: Whenever ANY player plays a crime tag, you gain 2 MC.": "EFFECT: Wanneer EEN WILLEKEURIGE speler een misdaadlabel speelt, ontvang je 2 M€.",
+"EFFECT: Whenever ANY player plays a crime tag, you gain 2 MC.": "EFFECT: Wanneer EEN WILLEKEURIGE speler een misdaadlabel speelt, ontvang je 2 M€.",
 
 "Deepmining": "Dieptemijnbouw",
 "Excavate an underground resource that depicts steel or titanium ANYWHERE ON THE BOARD. Increase your production of that resource 1 step.": "Graaf een ondergrondse grondstof op met staal of titanium erop, WAAR DAN OOK OP HET BORD. Verhoog de productie van die grondstof met 1.",
@@ -70,14 +70,14 @@
 "Requires 2 science tags. Decrease any plant production 1 step.": "Vereist 2 wetenschapslabels. Verlaag een willekeurige plantproductie met 1.",
 
 "Excavator Leasing": "Graafmachineleasing",
-"Effect: The excavate standard project costs 1 M€ less for all players.": "EFFECT: Het standaardproject Opgraven kost voor alle spelers 1 M€ minder.",
-"Effect: When any player excavates underground resources, you gain 1 M€ per excavation.": "EFFECT: Wanneer een willekeurige speler ondergrondse grondstoffen opgraaft, ontvang je 1 M€ per opgraving.",
+"EFFECT: The excavate standard project costs 1 M€ less for all players.": "EFFECT: Het standaardproject Opgraven kost voor alle spelers 1 M€ minder.",
+"EFFECT: When any player excavates underground resources, you gain 1 M€ per excavation.": "EFFECT: Wanneer een willekeurige speler ondergrondse grondstoffen opgraaft, ontvang je 1 M€ per opgraving.",
 
 "Expedition Vehicles": "Expeditievoertuigen",
-"Effect: After you place a tile (on Mars or in space) that has no adjacent tiles, draw a card.": "EFFECT: Nadat je een tegel plaatst (op Mars of in de ruimte) zonder aangrenzende tegels, trek je een kaart.",
+"EFFECT: After you place a tile (on Mars or in space) that has no adjacent tiles, draw a card.": "EFFECT: Nadat je een tegel plaatst (op Mars of in de ruimte) zonder aangrenzende tegels, trek je een kaart.",
 
 "Exploitation Of Venus": "Exploitatie van Venus",
-"Effect: Whenever ANY player terraforms Venus 1 step, THEY also gain 2 MC.": "EFFECT: Wanneer EEN WILLEKEURIGE speler Venus met 1 stap terraformeert, ontvangt DIE speler ook 2 M€.",
+"EFFECT: Whenever ANY player terraforms Venus 1 step, THEY also gain 2 MC.": "EFFECT: Wanneer EEN WILLEKEURIGE speler Venus met 1 stap terraformeert, ontvangt DIE speler ook 2 M€.",
 "Action: Pay 1 corruption to terraform Venus 1 step.": "ACTIE: Betaal 1 corruptie om Venus met 1 stap te terraformen.",
 
 "Export Convoy": "Exportkonvooi",
@@ -105,7 +105,7 @@
 
 "Geologist Team": "Geologenteam",
 "Action: Identify 1 underground resource.": "ACTIE: Identificeer 1 ondergrondse grondstof.",
-"Effect: When ANY player identifies an underground resource that depicts an ocean, YOU gain 1 TR.": "EFFECT: Wanneer EEN WILLEKEURIGE speler een ondergrondse grondstof identificeert met een oceaan erop, verhoog je je TN met 1.",
+"EFFECT: When ANY player identifies an underground resource that depicts an ocean, YOU gain 1 TR.": "EFFECT: Wanneer EEN WILLEKEURIGE speler een ondergrondse grondstof identificeert met een oceaan erop, verhoog je je TN met 1.",
 
 "Geoscan Satellite": "Geoscansatelliet",
 "Pick a space on the board. Identify the underground resource in that space and in all adjacent spaces. Claim one of them.": "Kies een veld op het bord. Identificeer de ondergrondse grondstof op dat veld en op alle aangrenzende velden. Claim er 1.",
@@ -148,7 +148,7 @@
 "Labor Trafficking": "Arbeidsuitbuiting",
 "FIRST": "EERSTE",
 "1ST": "1E",
-"Effect: The first standard project action you take each generation, except selling patents, costs 6 M€ less.": "EFFECT: De eerste standaardprojectactie die je elke generatie uitvoert, behalve het verkopen van patenten, kost 6 M€ minder.",
+"EFFECT: The first standard project action you take each generation, except selling patents, costs 6 M€ less.": "EFFECT: De eerste standaardprojectactie die je elke generatie uitvoert, behalve het verkopen van patenten, kost 6 M€ minder.",
 
 "Landfill": "Stortplaats",
 "Increase your M€ production 1 step for each different TYPE of production you have at least 1 step of.": "Verhoog je M€-productie met 1 voor elk verschillend TYPE productie waarvan je minstens 1 stap hebt.",
@@ -160,7 +160,7 @@
 "Place this special tile on a NON-RESERVED space that has your excavation marker.": "Plaats deze speciale tegel op EEN NIET-GERESERVEERD veld met je opgravingsmarker.",
 
 "Martian Express": "Mars Express",
-"Effect: This card can receive any resource that can be placed on ANY card. Resources placed here get converted to wares resources.": "EFFECT: Deze kaart kan elke grondstof ontvangen die op EEN WILLEKEURIGE kaart geplaatst kan worden. Grondstoffen die hier geplaatst worden, worden omgezet in handelswaargrondstoffen.",
+"EFFECT: This card can receive any resource that can be placed on ANY card. Resources placed here get converted to wares resources.": "EFFECT: Deze kaart kan elke grondstof ontvangen die op EEN WILLEKEURIGE kaart geplaatst kan worden. Grondstoffen die hier geplaatst worden, worden omgezet in handelswaargrondstoffen.",
 "Action: Remove all wares from here and gain 1 M€ for each ware removed.": "ACTIE: Verwijder alle handelswaar van hier en ontvang 1 M€ voor elke verwijderde handelswaar.",
 "Requires 1 city in play.": "Vereist 1 stad in het spel.",
 
@@ -181,7 +181,7 @@
 "Requires 1 science tag. Gain 3 plants. Identify 2 underground resources. Claim 1 of them.": "Vereist 1 wetenschapslabel. Ontvang 3 planten. Identificeer 2 ondergrondse grondstoffen. Claim er 1.",
 
 "Mining Market Insider": "Mijnmarktinsider",
-"Effect: After any player identifies 1 or more underground resources (at once), add 1 data resource to this card.": "EFFECT: Nadat een willekeurige speler tegelijk 1 of meer ondergrondse grondstoffen identificeert, voeg 1 datagrondstof toe aan deze kaart.",
+"EFFECT: After any player identifies 1 or more underground resources (at once), add 1 data resource to this card.": "EFFECT: Nadat een willekeurige speler tegelijk 1 of meer ondergrondse grondstoffen identificeert, voeg 1 datagrondstof toe aan deze kaart.",
 "Action: Spend 4 data resources on this card to draw a card.": "ACTIE: Besteed 4 datagrondstoffen op deze kaart om een kaart te trekken.",
 
 "Monopoly": "Monopolie",
@@ -231,7 +231,7 @@
 "Gain 1 TR.": "Verhoog je TN met 1.",
 
 "Private Military Contractor": "Particuliere militaire aannemer",
-"Effect: When blocking damage from other players, you can use fighters here as if they were corruption resources. You cannot use them for score bribing or collusion.": "EFFECT: Wanneer je schade van andere spelers blokkeert, mag je vechters hier gebruiken alsof het corruptiegrondstoffen zijn. Je mag ze niet gebruiken voor omkoping voor score of samenspanning.",
+"EFFECT: When blocking damage from other players, you can use fighters here as if they were corruption resources. You cannot use them for score bribing or collusion.": "EFFECT: Wanneer je schade van andere spelers blokkeert, mag je vechters hier gebruiken alsof het corruptiegrondstoffen zijn. Je mag ze niet gebruiken voor omkoping voor score of samenspanning.",
 "Add 1 fighter resource to this card.": "Voeg 1 jagergrondstof toe aan deze kaart.",
 
 "Private Resorts": "Priveresorts",
@@ -247,7 +247,7 @@
 "Requires 2 corruption. Excavate an underground resource. Remove up to 3 steel or 2 titanium from any player.": "Vereist 2 corruptie. Graaf een ondergrondse grondstof op. Verwijder maximaal 3 staal of 2 titanium van een willekeurige speler.",
 
 "Research & Development Hub": "Onderzoeks- en ontwikkelingshub",
-"Effect: At the end of each production phase, add 1 data here for EACH OTHER PLAYER that has 7 or more cards in their hand.": "EFFECT: Aan het einde van elke productiefase voeg je hier 1 data toe voor ELKE ANDERE SPELER die 7 of meer kaarten in de hand heeft.",
+"EFFECT: At the end of each production phase, add 1 data here for EACH OTHER PLAYER that has 7 or more cards in their hand.": "EFFECT: Aan het einde van elke productiefase voeg je hier 1 data toe voor ELKE ANDERE SPELER die 7 of meer kaarten in de hand heeft.",
 "1 VP for every 3 data resources on this card.": "1 OP voor elke 3 datagrondstoffen op deze kaart.",
 
 "Robot Moles": "Robotmollen",
@@ -267,7 +267,7 @@
 "Excavate an underground resource. Add 3 floaters to any card": "Graaf een ondergrondse grondstof op. Voeg 3 zwevers toe aan EEN WILLEKEURIGE kaart.",
 
 "Space Privateers": "Ruimtekapers",
-"Effect: Whenever you play a crime tag, including this, put 1 fighter on this card.": "EFFECT: Wanneer je een misdaadlabel speelt, inclusief deze kaart, plaats je 1 vechter op deze kaart.",
+"EFFECT: Whenever you play a crime tag, including this, put 1 fighter on this card.": "EFFECT: Wanneer je een misdaadlabel speelt, inclusief deze kaart, plaats je 1 vechter op deze kaart.",
 "Action: Steal up to 1 M€ per fighter here, from EACH OTHER player. For each player that blocks this, remove 1 fighter from here.": "ACTIE: Steel maximaal 1 M€ per jager hier van ELKE ANDERE speler. Voor elke speler die dit blokkeert, verwijder je 1 jager van hier.",
 "DO NOT USE FOR SOLO": "NIET GEBRUIKEN VOOR SOLO",
 "Requires 3 corruption.": "Vereist 3 corruptie.",
@@ -289,7 +289,7 @@
 
 "Stem Field Subsidies": "Stemveldsubsidies",
 "Action: Spend 2 resources here to identify 3 underground resources. Claim 1 of them.": "ACTIE: Besteed 2 grondstoffen hier om 3 ondergrondse grondstoffen te identificeren. Claim er 1.",
-"Effect: Whenever you play a science tag (including this), add 1 data to this card.": "EFFECT: Wanneer je een wetenschapslabel speelt (inclusief deze kaart), voeg 1 data toe aan deze kaart.",
+"EFFECT: Whenever you play a science tag (including this), add 1 data to this card.": "EFFECT: Wanneer je een wetenschapslabel speelt (inclusief deze kaart), voeg 1 data toe aan deze kaart.",
 
 "Sting Operation": "Stingoperatie",
 "Target a player that has at least 4 corruption. Draw 2 cards.": "Kies een speler met minstens 4 corruptie. Trek 2 kaarten.",
@@ -302,11 +302,11 @@
 "Place an ocean tile ON AN AREA NOT RESERVED FOR OCEAN where you have an excavation marker.": "Plaats een oceaantegel OP EEN GEBIED DAT NIET VOOR OCEAAN IS GERESERVEERD waar je een opgravingsmarker hebt.",
 
 "Thiolava Vents": "Thiolava-openingen",
-"Effect: Each time you increase your heat production, including this, put 1 microbe on this card.": "EFFECT: Elke keer dat je je warmteproductie verhoogt, inclusief deze kaart, plaats je 1 microbe op deze kaart.",
+"EFFECT: Each time you increase your heat production, including this, put 1 microbe on this card.": "EFFECT: Elke keer dat je je warmteproductie verhoogt, inclusief deze kaart, plaats je 1 microbe op deze kaart.",
 "Requires an ocean. Increase your heat production 2 steps. 1 VP per 3 microbes on this card.": "Vereist een oceaan. Verhoog je warmteproductie met 2. 1 OP per 3 microben op deze kaart.",
 
 "Titan Manufacturing Colony": "Titan-productiekolonie",
-"Effect: Whenever you play a Jovian tag, (including this one), add 1 tool resource on this card.": "EFFECT: Wanneer je een Jupiterlabel speelt (inclusief deze kaart), voeg 1 gereedschapsgrondstof toe aan deze kaart.",
+"EFFECT: Whenever you play a Jovian tag, (including this one), add 1 tool resource on this card.": "EFFECT: Wanneer je een Jupiterlabel speelt (inclusief deze kaart), voeg 1 gereedschapsgrondstof toe aan deze kaart.",
 "Action: Spend 1 tool resource on this card to excavate an underground resource.": "ACTIE: Besteed 1 gereedschapsgrondstof op deze kaart om een ondergrondse grondstof op te graven.",
 
 "Tunnel Boring Machine": "Tunnelboormachine",
@@ -343,6 +343,6 @@
 "Excavate 1 underground resource for every 3 cities in play.": "Graaf 1 ondergrondse grondstof op voor elke 3 steden in het spel.",
 
 "Whales": "Walvissen",
-"Effect: Whenever you would place an ocean when there are already 9 oceans on the board, add an animal to this card": "EFFECT: Wanneer je een oceaan zou plaatsen terwijl er al 9 oceanen op het bord liggen, voeg 1 dier toe aan deze kaart.",
+"EFFECT: Whenever you would place an ocean when there are already 9 oceans on the board, add an animal to this card": "EFFECT: Wanneer je een oceaan zou plaatsen terwijl er al 9 oceanen op het bord liggen, voeg 1 dier toe aan deze kaart.",
 "Requires 6 oceans. 1 VP for each animal on this card.": "Vereist 6 oceanen. 1 OP voor elk dier op deze kaart."
 }

@@ -1,6 +1,6 @@
 {
   "Albedo Plants": "Albedoplanten",
-  "Effect: When you play a plant tag, including this, gain 3 heat.": "EFFECT: Wanneer je een plantlabel speelt, inclusief deze, ontvang je 3 warmte.",
+  "EFFECT: When you play a plant tag, including this, gain 3 heat.": "EFFECT: Wanneer je een plantlabel speelt, inclusief deze, ontvang je 3 warmte.",
   "Increase plant production 1 step. Gain 1 plant.": "Verhoog je plantproductie met 1. Ontvang 1 plant.",
 
   "Applied Science": "Toegepaste wetenschap",
@@ -17,10 +17,10 @@
 
   "Colony Trade Hub": "Koloniehandelsknooppunt",
   "Increase your energy production 1 step. Gain 2 titanium": "Verhoog je energieproductie met 1. Ontvang 2 titanium",
-  "Effect: When any colony is placed, gain 2 M€.": "EFFECT: Wanneer een kolonie wordt geplaatst, ontvang je 2 M€.",
+  "EFFECT: When any colony is placed, gain 2 M€.": "EFFECT: Wanneer een kolonie wordt geplaatst, ontvang je 2 M€.",
 
   "Corridors of Power": "Machtscorridors",
-  "Effect: Each time you become party leader, draw 1 card.": "EFFECT: Elke keer dat je partijleider wordt, trek je 1 kaart.",
+  "EFFECT: Each time you become party leader, draw 1 card.": "EFFECT: Elke keer dat je partijleider wordt, trek je 1 kaart.",
   "Raise your TR 1 step and gain 4 M€": "Verhoog je TN met 1 en ontvang 4 M€",
 
   "Early Colonization": "Vroege kolonisatie",
@@ -37,14 +37,14 @@
 
   "High Circles": "Hoge kringen",
   "Raise your TR 1 step and draw 1 card with PARTY REQUIREMENT. Place 2 delegates in one party.": "Verhoog je TN met 1 en trek 1 kaart met PARTIJVEREISTE. Plaats 2 afgevaardigden in één partij.",
-  "Effect: You have +1 influence.": "EFFECT: Je hebt +1 invloed.",
+  "EFFECT: You have +1 influence.": "EFFECT: Je hebt +1 invloed.",
 
   "Industrial Complex": "Industrieel complex",
   "Lose 18 M€. INCREASE ALL YOUR PRODUCTIONS THAT ARE LOWER THAN 1, TO 1.": "Verlies 18 M€. VERHOOG AL JE PRODUCTIES DIE LAGER ZIJN DAN 1, NAAR 1.",
 
   "Main Belt Asteroids": "Asteroiden uit de hoofdgordel",
   "Action: Gain 1 asteroid to ANY CARD.": "ACTIE: Voeg 1 asteroide toe aan EEN WILLEKEURIGE KAART.",
-  "Effect: When gaining an asteroid HERE, gain 1 titanium.": "EFFECT: Wanneer je HIER een asteroide ontvangt, ontvang je 1 titanium.",
+  "EFFECT: When gaining an asteroid HERE, gain 1 titanium.": "EFFECT: Wanneer je HIER een asteroide ontvangt, ontvang je 1 titanium.",
   "Lose 5 M€. 1 VP per 2 asteroids here.": "Verlies 5 M€. 1 OP per 2 asteroiden hier.",
 
   "Nobel Prize": "Nobelprijs",
@@ -57,7 +57,7 @@
   "Raise your TR 2 steps. Draw 1 Jovian card and 1 Venus card.": "Verhoog je TN met 2 stappen. Trek 1 Jupiterkaart en 1 Venuskaart.",
 
   "Preservation Program": "Behoudsprogramma",
-  "Effect: SKIP THE FIRST TR YOU GAIN IN EACH GENERATION'S ACTION PHASE.": "EFFECT: SLA DE EERSTE TN OVER DIE JE ONTVANGT IN DE ACTIEFASE VAN ELKE GENERATIE.",
+  "EFFECT: SKIP THE FIRST TR YOU GAIN IN EACH GENERATION'S ACTION PHASE.": "EFFECT: SLA DE EERSTE TN OVER DIE JE ONTVANGT IN DE ACTIEFASE VAN ELKE GENERATIE.",
   "Raise your TR 5 steps.": "Verhoog je TN met 5 stappen.",
 
   "Project Eden": "",
@@ -70,21 +70,21 @@
   "Increase your M€ production 3 steps and place 3 delegates. YOU MAY PLACE THEM IN SEPARATE PARTIES.": "Verhoog je M€-productie met 3 en plaats 3 afgevaardigden. JE MAG ZE IN APARTE PARTIJEN PLAATSEN.",
 
   "Soil Bacteria": "Bodembacterien",
-  "Effect: When playing a plant tag or a microbe tag, including this, gain 1 plant.": "EFFECT: Wanneer je een plantlabel of microbenlabel speelt, inclusief deze, ontvang je 1 plant.",
+  "EFFECT: When playing a plant tag or a microbe tag, including this, gain 1 plant.": "EFFECT: Wanneer je een plantlabel of microbenlabel speelt, inclusief deze, ontvang je 1 plant.",
   "Draw 2 microbe cards and gain 3 plants.": "Trek 2 microbenkaarten en ontvang 3 planten.",
 
   "Space Lanes": "Ruimtevaartroutes",
-  "Effect: When you play a Jovian, Earth, or Venus tag, you pay 2 M€ less for it.": "EFFECT: Wanneer je een Jupiter-, Aarde- of Venuslabel speelt, betaal je er 2 M€ minder voor.",
+  "EFFECT: When you play a Jovian, Earth, or Venus tag, you pay 2 M€ less for it.": "EFFECT: Wanneer je een Jupiter-, Aarde- of Venuslabel speelt, betaal je er 2 M€ minder voor.",
   "Gain 3 titanium.": "Ontvang 3 titanium.",
 
   "Suitable Infrastructure": "Geschikte infrastructuur",
-  "Effect: Once per action you take, gain 2 M€ if you increase any productions.": "EFFECT: Eenmaal per actie die je uitvoert ontvang je 2 M€ als je een productie verhoogt.",
+  "EFFECT: Once per action you take, gain 2 M€ if you increase any productions.": "EFFECT: Eenmaal per actie die je uitvoert ontvang je 2 M€ als je een productie verhoogt.",
 
   "Terraforming Deal": "Terraformingdeal",
-  "Effect: Each step your TR is raised, you gain 2 M€.": "EFFECT: Voor elke stap waarmee je TN wordt verhoogd, ontvang je 2 M€.",
+  "EFFECT: Each step your TR is raised, you gain 2 M€.": "EFFECT: Voor elke stap waarmee je TN wordt verhoogd, ontvang je 2 M€.",
 
   "Venus Contract": "Venuscontract",
-  "Effect: Each step you raise Venus, gain 3 M€.": "EFFECT: Voor elke stap waarmee je Venus verhoogt, ontvang je 3 M€.",
+  "EFFECT: Each step you raise Venus, gain 3 M€.": "EFFECT: Voor elke stap waarmee je Venus verhoogt, ontvang je 3 M€.",
   "Draw 1 Venus card. Raise your TR 1 step.": "Trek 1 Venuskaart. Verhoog je TN met 1 stap.",
 
   "Venus L1 Shade": "Venus L1-scherm",

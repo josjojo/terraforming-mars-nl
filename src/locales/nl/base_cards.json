@@ -89,7 +89,7 @@
     "Gain 3 plants, or add 3 microbes or 2 animals to ANOTHER card. Place an ocean tile.": "Ontvang 3 planten OF voeg 3 microben OF 2 dieren toe aan EEN ANDERE kaart. Plaats een oceaantegel.",
 
     "Research Outpost": "Onderzoek Buitenpost",
-    "Effect: When you play a card, you pay 1 M€ less for it.": "EFFECT: Als je een kaart speelt, betaal je 1 M€ minder.",
+    "EFFECT: When you play a card, you pay 1 M€ less for it.": "EFFECT: Als je een kaart speelt, betaal je 1 M€ minder.",
     "Place a city tile NEXT TO NO OTHER TILE.": "Plaats een stadstegel, maar NIET NAAST EEN ANDERE TEGEL.",
 
     "Phobos Space Haven": "Phobos ruimtehaven",
@@ -99,7 +99,7 @@
     "Place an ocean tile. Decrease your M€ production 2 steps and increase your heat production 3 steps.": "Plaats 1 oceaantegel. Verlaag je M€-productie met 2 en verhoog je warmteproductie met 3.",
 
     "Arctic Algae": "Arctische algen",
-    "(Effect: When anyone places an ocean tile, gain 2 plants.)": "(Effect: Als iemand een oceaantegel plaatst, krijg je 2 planten.)",
+    "(EFFECT: When anyone places an ocean tile, gain 2 plants.)": "(EFFECT: Als iemand een oceaantegel plaatst, krijg je 2 planten.)",
     "It must be -12 C or colder to play. Gain 1 plant.": "De temperatuur moet -12 °C of kouder zijn. Neem 1 plant.",
 
     "Predators": "Roofdieren",
@@ -108,7 +108,7 @@
     "Requires 11% oxygen.": "Vereist een zuurstofgehalte van 11% of meer.",
 
     "Space Station": "Ruimtestation",
-    "Effect: When you play a space card, you pay 2 M€ less for it.": "EFFECT: Als je een ruimte-label speelt, betaal je 2 M€ minder.",
+    "EFFECT: When you play a space card, you pay 2 M€ less for it.": "EFFECT: Als je een ruimte-label speelt, betaal je 2 M€ minder.",
 
     "Eos Chasma National Park": "Eos Chasma Nationaalpark",
     "Requires -12 C or warmer. Add 1 animal TO ANY ANIMAL CARD. Gain 3 plants. Increase your M€ production 2 steps.": "Vereist een temperatuur van -12 °C of warmer. Voeg 1 dier toe aan een dierenkaart. Ontvang 3 planten. Verhoog je M€-productie met 2.",
@@ -127,7 +127,7 @@
     "Decrease your M€ production 2 steps and increase your heat production and energy production 2 steps each.": "Verlaagje M€-productie met 2. Verhoog je warmte- en energieproductie elk met 2.",
 
     "Optimal Aerobraking": "Optimaal aerodynamisch remmen",
-    "Effect: When you play a space event, you gain 3 M€ and 3 heat.": "EFFECT: Als je een ruimte-evenement speelt, krijg je 3 M€ en 3 warmte.",
+    "EFFECT: When you play a space event, you gain 3 M€ and 3 heat.": "EFFECT: Als je een ruimte-evenement speelt, krijg je 3 M€ en 3 warmte.",
 
     "Underground City": "Ondergrondse stad",
     "Place a city tile. Decrease your energy production 2 steps and increase your steel production 2 steps.": "Plaats een stadstegel. Verlaag je energieproductie met 2 en verhoog je staalproductie met 2.",
@@ -150,7 +150,7 @@
     "Raise your terraforming rating 2 steps and temperature 1 step. Increase your plant production 1 step, or 4 steps if you have 3 plant tags.": "Verhoog je terraformniveau met 2 en de temperatuur met 1. Verhoog je plantproductie met 1 OF 4 als je minstens 3 plant-labels hebt.",
 
     "Rover Construction": "Mars Rover Ontwikkeling",
-    "Effect: When any city tile is placed, gain 2 M€.": "EFFECT: Wanneer een stadstegel wordt geplaatst, ontvang je 2 M€.",
+    "EFFECT: When any city tile is placed, gain 2 M€.": "EFFECT: Wanneer een stadstegel wordt geplaatst, ontvang je 2 M€.",
 
     "Deimos Down": "Deimos gecrasht",
     "Raise temperature 3 steps and gain 4 steel. Remove up to 8 plants from any player.": "Verhoog de temperatuur met 3 en ontvang 4 staal. Verwijder maximaal 8 planten van een speler.",
@@ -249,21 +249,21 @@
     "Oxygen must be 8% or less. Decrease your energy production 1 step.": "Het zuurstofgehalte moet 8% of minder zijn. Verlaag je energieproductie met 1.",
 
     "Earth Catapult": "Aarde katapult",
-    "Effect: When you play a card, you pay 2 M€ less for it.": "EFFECT: Als je een kaart speelt, betaal je 2 M€ minder.",
+    "EFFECT: When you play a card, you pay 2 M€ less for it.": "EFFECT: Als je een kaart speelt, betaal je 2 M€ minder.",
 
     "Advanced Alloys": "Verbeterde legeringen",
-    "Effect: Each titanium you have is worth 1 M€ extra.": "EFFECT: Elke titanium die je bezit is 1 M€ extra waard.",
-    "Effect: Each steel you have is worth 1 M€ extra.": "Elk staal dat je bezit is 1 M€ extra waard.",
+    "EFFECT: Each titanium you have is worth 1 M€ extra.": "EFFECT: Elke titanium die je bezit is 1 M€ extra waard.",
+    "EFFECT: Each steel you have is worth 1 M€ extra.": "Elk staal dat je bezit is 1 M€ extra waard.",
 
     "Birds": "Vogels",
     "Action: Add an animal to this card.": "ACTIE: Voeg 1 dier toe aan deze kaart.",
     "Requires 13% oxygen. Decrease any plant production 2 steps.": "Vereist een zuurstofniveau van 13% of meer. Verminder de plantproductie van een speler met 2.",
 
     "Mars University": "Mars Universiteit",
-    "Effect: When you play a science tag, including this, you may discard a card from hand to draw a card.": "EFFECT: Elke keer dat je een wetenschaps-label speelt (inclusief deze), mag je 1 kaart uit je hand afleggen om 1 nieuwe te trekken.",
+    "EFFECT: When you play a science tag, including this, you may discard a card from hand to draw a card.": "EFFECT: Elke keer dat je een wetenschaps-label speelt (inclusief deze), mag je 1 kaart uit je hand afleggen om 1 nieuwe te trekken.",
 
     "Viral Enhancers": "Virale booster",
-    "Effect: When you play a plant, microbe, or an animal tag, including this, gain 1 plant or add 1 resource to THAT CARD.": "EFFECT: Telkens wanneer je een plant-, microbe- of dier-label speelt (inclusief dit label), ontvang je 1 plant OF voeg 1 grondstof toe aan DIE GESPEELDE KAART.",
+    "EFFECT: When you play a plant, microbe, or an animal tag, including this, gain 1 plant or add 1 resource to THAT CARD.": "EFFECT: Telkens wanneer je een plant-, microbe- of dier-label speelt (inclusief dit label), ontvang je 1 plant OF voeg 1 grondstof toe aan DIE GESPEELDE KAART.",
 
     "Towing A Comet": "Sleep een komeet",
     "Gain 2 plants. Raise oxygen level 1 step and place an ocean tile.": "Neem 2 planten. Verhoog het zuurstofgehalte met 1%. Plaats 1 oceaantegel.",
@@ -358,7 +358,7 @@
     "Action: Spend 4 energy to gain 1 titanium and increase oxygen 1 step.": "ACTIE: Besteed 4 energie om 1 titanium te ontvangen en de zuurstof met 1% te verhogen.",
 
     "Earth Office": "Verbindingsbureau Aarde",
-    "Effect: When you play an Earth tag, you pay 3 M€ less for it.": "EFFECT: Als je een aarde-label speelt, betaal je 3 M€ minder.",
+    "EFFECT: When you play an Earth tag, you pay 3 M€ less for it.": "EFFECT: Als je een aarde-label speelt, betaal je 3 M€ minder.",
     "When you play an Earth tag, you pay 3 M€ less for it.": "Als je een aarde-label speelt, betaal je 3 M€ minder.",
 
     "Acquired Company": "Overgenomen bedrijf",
@@ -370,7 +370,7 @@
     "Requires 12% oxygen. Gain 2 plants. Place a city tile. Decrease your energy production 1 step and increase your M€ production 4 steps.": "Vereist een zuurstofgehalte van 12% of meer. Ontvang 2 planten. Plaats een stadstegel. Verlaag je energieproductie met 1. Verhoog je M€-productie met 4.",
 
     "Media Group": "Mediagroep",
-    "Effect: After you play an event card, you gain 3 M€.": "EFFECT: Na het spelen van een gebeurteniskaart krijg je 3 M€.",
+    "EFFECT: After you play an event card, you gain 3 M€.": "EFFECT: Na het spelen van een gebeurteniskaart krijg je 3 M€.",
 
     "Business Network": "Zakennetwerk",
     "Decrease your M€ production 1 step.": "Verlaag je M€-productie met 1.",
@@ -428,7 +428,7 @@
     "Place 1 ocean tile.": "Plaats een oceaantegel.",
 
     "Ecological Zone": "Ecologische zone",
-    "(Effect: When you play an animal or plant tag INCLUDING THESE, add an animal to this card.)": "(EFFECT: Als je een dier- of plant-label speelt (inclusief deze 2), voeg dan een dier toe aan deze kaart.)",
+    "(EFFECT: When you play an animal or plant tag INCLUDING THESE, add an animal to this card.)": "(EFFECT: Als je een dier- of plant-label speelt (inclusief deze 2), voeg dan een dier toe aan deze kaart.)",
     "Requires that YOU have a greenery tile. Place this tile adjacent to ANY greenery.": "Vereist dat JIJ een groentegel hebt. Plaats deze tegel naast een groentegel.",
     "1 VP per 2 animals on this card. [already defined]": "",
 
@@ -439,7 +439,7 @@
     "Requires 4% oxygen. Increase your plant production 1 step for every 2 microbe tags you have, including this.": "Vereist een zuurstofgehalte van 4% of meer. Verhoog je plantenproductie met 1 voor elke 2 microbe-labels die je hebt (inclusief deze).",
 
     "Decomposers": "Afbrekers",
-    "Effect: When you play an animal, plant, or microbe tag, including this, add a microbe to this card.": "EFFECT: Als je een dier-, plant- of microbe-label speelt (inclusief deze), voeg dan voor elk 1 microbe toe aan deze kaart.",
+    "EFFECT: When you play an animal, plant, or microbe tag, including this, add a microbe to this card.": "EFFECT: Als je een dier-, plant- of microbe-label speelt (inclusief deze), voeg dan voor elk 1 microbe toe aan deze kaart.",
     "Requires 3% oxygen.": "Vereist een zuurstofgehalte van 3% of meer.",
     "1 VP per 3 microbes on this card.": "1 OP voor elke 3 microben op deze kaart.",
 
@@ -489,7 +489,7 @@
     "Requires 3 ocean tiles and that you lose 2 plants. Increase your plant production 2 steps.": "Vereist 3 of meer oceaantegels in het spel en je consumeert 2 planten. Verhoog je plantproductie met 2.",
 
     "Herbivores": "Herbivoren",
-    "Effect: When you place a greenery tile, add an animal to this card.": "EFFECT: Telkens wanneer je een groentegel plaatst, voeg je 1 dier toe aan deze kaart.",
+    "EFFECT: When you place a greenery tile, add an animal to this card.": "EFFECT: Telkens wanneer je een groentegel plaatst, voeg je 1 dier toe aan deze kaart.",
     "Requires 8% oxygen. +1 animal to this card. -1 any plant production": "Vereist een zuurstofgehalte van 8% of meer. Voeg 1 dier toe aan deze kaart. Verlaag de plantproductie met 1",
 
     "Insects": "Vliegende insecten",
@@ -509,7 +509,7 @@
 
     "Adaptation Technology": "Aanpassingstechnologie",
     "Global requirements": "Globale vereisten",
-    "Effect: Your global requirements are +2 or -2 steps, your choice in each case.": "EFFECT: Als je een kaart speelt, worden de globale vereisten verhoogd of verlaagd met 2 stappen naar keuze.",
+    "EFFECT: Your global requirements are +2 or -2 steps, your choice in each case.": "EFFECT: Als je een kaart speelt, worden de globale vereisten verhoogd of verlaagd met 2 stappen naar keuze.",
 
     "Caretaker Contract": "Beheerovereenkomst",
     "Action: Spend 8 heat to increase your terraform rating 1 step.": "ACTIE: Verlaag 8 warmte om je terraformniveau met 1 te verhogen.",
@@ -519,7 +519,7 @@
     "It must be -14 C or colder. Increase your plant production 2 steps.": "De temperatuur moet -14 °C of lager zijn. Verhoog de plantproductie met 2.",
 
     "Standard Technology": "Standaardtechnologie",
-    "Effect: After you pay for a standard project, except selling patents, you gain 3 M€.": "EFFECT: Nadat je voor een standaardproject heeft betaald (uitzondering: patenten verkopen), ontvang je 3 M€.",
+    "EFFECT: After you pay for a standard project, except selling patents, you gain 3 M€.": "EFFECT: Nadat je voor een standaardproject heeft betaald (uitzondering: patenten verkopen), ontvang je 3 M€.",
 
     "Nitrite Reducing Bacteria": "Nitrietreducerende bacteriën",
     "Action: Add 1 microbe to this card, or remove 3 microbes to increase your TR 1 step.": "ACTIE: Voeg 1 microbe toe aan deze kaart OF verwijder 3 microben om je TN met 1 te verhogen.",
@@ -570,7 +570,7 @@
 
     "Pets": "Huisdieren",
     "Animals may not be removed from this card": "Dieren mogen niet van deze kaart worden verwijderd.",
-    "Effect: When any city tile is placed, add an animal to this card.": "EFFECT: Wanneer een stadstegel wordt geplaatst: voeg 1 dier toe aan deze kaart.",
+    "EFFECT: When any city tile is placed, add an animal to this card.": "EFFECT: Wanneer een stadstegel wordt geplaatst: voeg 1 dier toe aan deze kaart.",
     "Add 1 animal to this card.": "Voeg 1 dier toe aan deze kaart.",
     "1 VP per 2 animals here.": "1 OP voor elke 2 dieren.",
 
@@ -658,12 +658,12 @@
 
     "Restricted Area": "Verboden gebied",
     "Action: Spend 2 M€ to draw a card.": "ACTIE: Betaal 2 M€ om 1 kaart te trekken.",
-    "Effect: when playing a Venus tag, Floaters here may be used as payment, and are worth 3M€ each": "EFFECT: Als er een Venus-label wordt gespeeld, kunnen de floaters die hier liggen worden gebruikt voor 3 M€ per stuk",
+    "EFFECT: when playing a Venus tag, Floaters here may be used as payment, and are worth 3M€ each": "EFFECT: Als er een Venus-label wordt gespeeld, kunnen de floaters die hier liggen worden gebruikt voor 3 M€ per stuk",
 
     "Place this tile.": "Plaats deze tegel.",
 
     "Immigrant City": "Immigrantenstad",
-    "Effect: When a city tile is placed, including this, increase your M€ production 1 step.": "EFFECT: Wanneer een stadstegel wordt geplaatst (inclusief deze), verhoog je je M€-productie met 1.",
+    "EFFECT: When a city tile is placed, including this, increase your M€ production 1 step.": "EFFECT: Wanneer een stadstegel wordt geplaatst (inclusief deze), verhoog je je M€-productie met 1.",
     "Decrease your energy production 1 step and decrease your M€ production 2 steps. Place a city tile.": "Verminder je energieproductie met 1 en je M€-productie met 2. Plaats een stadstegel.",
 
     "Energy Tapping": "Energie tappen",
@@ -690,7 +690,7 @@
     "AI Central": "AI-Centrale",
 
     "Action: Draw 2 cards.": "ACTIE: Trek 2 kaarten.",
-    "(Effect: Draw 2 cards.)": "(EFFECT: Trek 2 kaarten.)",
+    "(EFFECT: Draw 2 cards.)": "(EFFECT: Trek 2 kaarten.)",
 
     "Requires 3 science tags to play. Decrease your energy production 1 step.": "Vereist 3 wetenschaps-labels. Verlaag je energieproductie met 1.",
 
@@ -702,7 +702,7 @@
     "Oxygen must be 4% or lower. Draw two cards.": "Zuurstofgehalte moet 4% of lager zijn. Trek 2 kaarten.",
     "After being played, when you perform an action, the wild tag counts as any tag of your choice.": "Wanneer je een actie uitvoert, telt het wild-label als een label naar keuze.",
     "Decrease your energy production 1 step and increase your M€ production 2 steps. Place a city tile on a VOLCANIC AREA regardless of adjacent cities.": "Verlaag je energieproductie met 1 stap en verhoog je M€-productie met 2 stappen. Plaats een stadstegel op een VULKAANVELD en negeer alle aangrenzende steden.",
-    "Effect: When paying for a plant card, microbes here may be used as 2 M€ each.": "EFFECT: Als je voor een plantkaart betaalt, mag je microben van hier gebruiken voor 2 M€ per stuk.",
+    "EFFECT: When paying for a plant card, microbes here may be used as 2 M€ each.": "EFFECT: Als je voor een plantkaart betaalt, mag je microben van hier gebruiken voor 2 M€ per stuk.",
     "Temperature must be -20 C or lower.": "De temperatuur moet -20 °C of lager zijn.",
     "Increase your energy production 1 step": "Verhoog je energieproductie met 1 stap",
     "Increase your energy production 2 steps": "Verhoog uw energieproductie met 2 stappen",

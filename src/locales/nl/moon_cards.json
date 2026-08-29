@@ -68,7 +68,7 @@
     "Spend 1 titanium. Increase your titanium production 2 steps. Raise the mining rate 1 step.": "Betaal 1 titanium. Verhoog je titaniumproductie met 2. Verhoog de mijnwaarde met 1.",
 
     "Earth Embassy": "Aarde Ambassade",
-    "Effect: When you perform an action, your PLAYED Moon tags count as Earth tags, but not vice versa.": "EFFECT: Als je een actie uitvoert, tellen je maan-labels als aarde-labels, maar niet andersom.",
+    "EFFECT: When you perform an action, your PLAYED Moon tags count as Earth tags, but not vice versa.": "EFFECT: Als je een actie uitvoert, tellen je maan-labels als aarde-labels, maar niet andersom.",
 
     "Geodesic Tents": "Geodetische tenten",
     "Decrease your energy production 1 step and increase your plant production 1 step. Spend 1 titanium. Place a habitat tile on The Moon and raise the habitat rate 1 step.": "Verlaag je energieproductie met 1 en verhoog je plantproductie met 1. Betaal 1 titanium. Plaats een habitattegel op de maan en verhoog de habitatwaarde met 1.",
@@ -101,7 +101,7 @@
     "Requires 2 mining tiles on The Moon. Spend 2 titanium. Increase your M€ production 4 steps.": "Vereist 2 mijntegels op de maan. Betaal 2 titanium. Verhoog je M€-productie met 4.",
 
     "Improved Moon Concrete": "Verbeterd maanbeton",
-    "Effect: When you build a mine on The Moon, you spend 1 titanium less.": "EFFECT: Als je een mijntegel op de maan legt, betaal je 1 titanium minder.",
+    "EFFECT: When you build a mine on The Moon, you spend 1 titanium less.": "EFFECT: Als je een mijntegel op de maan legt, betaal je 1 titanium minder.",
     "Spend 2 steel. Raise the mining rate 1 step.": "Betaal 2 staal. Verhoog de mijnwaarde met 1.",
 
     "Iron Extraction Center": "Centrum voor ijzerwinning",
@@ -111,7 +111,7 @@
     "Raise the habitat rate 1 step. Place a colony. Gain 1 Trade Fleet.": "Verhoog de habitatwaarde met 1. Plaats een kolonie. Krijg 1 handelsvloot.",
 
     "L.T.F. Privileges": "L.T.F.-Privileges",
-    "Effect: When playing a Moon tag, you do not pay additional steel or titanium for playing it.": "EFFECT: Als je een maan-label speelt, betaal je geen extra staal of titaan voor het spelen van die labels.",
+    "EFFECT: When playing a Moon tag, you do not pay additional steel or titanium for playing it.": "EFFECT: Als je een maan-label speelt, betaal je geen extra staal of titaan voor het spelen van die labels.",
 
     "Luna Conference": "Maanconferentie",
     "Requires that Scientists are ruling or that you have 2 delegates there. Gain 2 M€ per road tile on The Moon. Gain 2M€ per habitat tile on The Moon.": "Vereist dat WETENSCHAPPERS regeren of dat je daar 2 afgevaardigden hebt. Ontvang 2 M€ per wegtegel op de maan. Ontvang 2 M€ per habitattegel op de maan.",
@@ -147,7 +147,7 @@
     "Requires a logistic rate of 5 or higher. Spend 2 steel. Increase your M€ production 4 steps. Place this tile on The Moon and raise the logistic rate 1 step. 2 VP FOR EACH ROAD TILE ADJACENT TO THIS TILE.": "Vereist een logistiekwaarde van 5 of hoger. Betaal 2 staal. Verhoog je M€-productie met 4. Plaats deze tegel op de maan en verhoog de logistiekwaarde met 1. 2 OP PER WEGTEGEL NAAST DEZE TEGEL.",
 
     "Lunar Dust Processing Plant": "Maanstofverwerkingsinstallatie",
-    "Effect: When you place a road tile on The Moon, you spend no steel on it.": "EFFECT: Als je een wegtegel op de maan legt, betaal je er geen extra staal voor.",
+    "EFFECT: When you place a road tile on The Moon, you spend no steel on it.": "EFFECT: Als je een wegtegel op de maan legt, betaal je er geen extra staal voor.",
     "Spend 1 titanium. Raise the logistic rate 1 step.": "Betaal 1 titanium. Verhoog de logistiekwaarde met 1.",
 
     "Lunar Industry Complex": "Maan industrieel complex",
@@ -196,7 +196,7 @@
     "Mooncrate Block Factory": "Maankraterblokkenfabriek",
 
     "Lunar standard projects": "Standaard maanprojecten",
-    "Effect: When you pay for a Lunar standard project, you spend 4M€ less.": "EFFECT: Als je voor een standaard maanproject betaalt, betaal je 4 M€ minder.",
+    "EFFECT: When you pay for a Lunar standard project, you spend 4M€ less.": "EFFECT: Als je voor een standaard maanproject betaalt, betaal je 4 M€ minder.",
     "Requires 1 mine on The Moon.": "Vereist 1 eigen mijntegel.",
 
     "Mooncrate Convoys To Mars": "Maankraterkonvooien naar Mars",
@@ -254,7 +254,7 @@
     "Action: Spend 3X M€ to gain 2X steel (max 9 M€), or spend X steel to gain 3X M€ (max 3 steel).": "ACTIE: Betaal 3X M€ om 2X staal te krijgen (max. 9 M€) of betaal X staal om 3X M€ te krijgen (max. 3 staal).",
 
     "Subterranean Habitats": "Ondergrondse leefgebieden",
-    "Effect: When you build a habitat on THE MOON, you spend 1 titanium less.": "EFFECT: Als je een habitat op DE MAAN bouwt, betaal je 1 titanium minder.",
+    "EFFECT: When you build a habitat on THE MOON, you spend 1 titanium less.": "EFFECT: Als je een habitat op DE MAAN bouwt, betaal je 1 titanium minder.",
     "Spend 2 steel. Raise the habitat rate 1 step.": "Betaal 2 staal. Verhoog het aantal kolonies met 1.",
 
     "Syndicate Pirate Raids": "Syndicaat Piraataanvalen",
@@ -292,7 +292,7 @@
 
     "Luna Archives": "Maanarchieven",
     "Action: Add 1 science resource here for each Moon tag you have.": "ACTIE: Voeg 1 wetenschap toe aan deze kaart voor elk van je maan-labels.",
-    "Effect: When playing a Moon tag, science resources here may be used as payment, and are worth 1M€ each.": "EFFECT: Als je een maan-label speelt, kan de wetenschap van deze kaart worden gebruikt voor betaling van 1 M€ per stuk.",
+    "EFFECT: When playing a Moon tag, science resources here may be used as payment, and are worth 1M€ each.": "EFFECT: Als je een maan-label speelt, kan de wetenschap van deze kaart worden gebruikt voor betaling van 1 M€ per stuk.",
 
     "Luna Ecumenopolis": "Maan Oecumenepolis",
     "Spend 2 titanium. Place 2 habitat tiles adjacent to at least 2 other habitat tiles and raise habitat rate 2 steps. Increase your TR 1 step for each 2 steps of the habitat rate.": "Betaal 2 titanium. Plaats 2 habitattegels naast minstens 2 andere habitattegels en verhoog de habitatwaarde met 2. Verhoog je TN met 1 voor elke 2 verhoogde habitatwaardering.",

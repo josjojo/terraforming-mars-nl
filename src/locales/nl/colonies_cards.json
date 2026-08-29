@@ -18,7 +18,7 @@
     "Corona Extractor": "Corona-Extractor",
 
     "Cryo-Sleep": "Cryo-Slaap",
-    "Effect: When you trade, you pay 1 less resource for it.": "EFFECT: Als je handelt, betaal je 1 grondstof minder.",
+    "EFFECT: When you trade, you pay 1 less resource for it.": "EFFECT: Als je handelt, betaal je 1 grondstof minder.",
 
     "Earth Elevator": "Ruimtelift",
     "Increase your titanium production 3 steps.": "Verhoog je titaniumproductie met 3.",
@@ -71,7 +71,7 @@
     "Increase one colony tile track 1 step. Decrease another colony tile track 1 step.": "Verhoog je koloniewaarde met 1. Verlaag een andere koloniewaarde met 1.",
 
     "Martian Zoo": "Mars Dierentuin",
-    "Effect: When you play an Earth tag, place an animal here.": "EFFECT: Als je een aarde-label speelt, voeg dan 1 dier toe aan deze kaart.",
+    "EFFECT: When you play an Earth tag, place an animal here.": "EFFECT: Als je een aarde-label speelt, voeg dan 1 dier toe aan deze kaart.",
     "Action: Gain 1M€ per animal here.": "Actie: ontvang 1 M€ per dier op deze kaart.",
     "Requires 2 city tiles in play.": "Vereist 2 stadstegels in het spel.",
 
@@ -126,7 +126,7 @@
     "1 VP per 2 colonies in play.": "1 OP 2 kolonies in het spel.",
 
     "Spin-off Department": "Bijkantoor",
-    "(Effect: WHEN PLAYING A CARD WITH A BASIC COST OF 20M€ OR MORE, draw a card.)": "(EFFECT: Als je een kaart speelt met een basisprijs van 20 M€ of meer, trek dan een kaart.)",
+    "(EFFECT: WHEN PLAYING A CARD WITH A BASIC COST OF 20M€ OR MORE, draw a card.)": "(EFFECT: Als je een kaart speelt met een basisprijs van 20 M€ of meer, trek dan een kaart.)",
 
     "Sub-zero Salt Fish": "IJs Zoutwatervissen",
     "Action: Add 1 animal to this card.": "ACTIE: Voeg 1 dier toe aan deze kaart.",
@@ -146,13 +146,13 @@
     "Trade Envoys": "Commerciëel Agent",
 
     "Trading Colony": "Handelskolonie",
-    "Effect: When you trade, you may first increase that Colony Tile track 1 step.": "EFFECT: Als je handelt, mag je eerst het koloniespoor 1 stap verhogen.",
+    "EFFECT: When you trade, you may first increase that Colony Tile track 1 step.": "EFFECT: Als je handelt, mag je eerst het koloniespoor 1 stap verhogen.",
     "Place a colony": "Plaats een kolonie.",
 
     "Urban Decomposers": "Stedelijke Afbrekers",
     "Requires that you have 1 city tile and 1 colony in play. Increase your plant production 1 step, and add 2 microbes to ANOTHER card.": "Vereist dat je 1 stadstegel en 1 kolonietegel hebt. Verhoog je plantenproductie met 1 en voeg 2 microben toe aan een ANDERE kaart.",
 
     "Warp Drive": "Warp Aandrijving",
-    "Effect: When you play a space card, you pay 4 M€ less for it.": "EFFECT: Als je een ruimtekaart speelt, betaal je 4 M€ minder.",
+    "EFFECT: When you play a space card, you pay 4 M€ less for it.": "EFFECT: Als je een ruimtekaart speelt, betaal je 4 M€ minder.",
     "Requires 5 science tags.": "Vereist 5 wetenschaps-labels."
 }
