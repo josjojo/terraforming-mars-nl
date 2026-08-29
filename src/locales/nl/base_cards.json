@@ -6,7 +6,7 @@
     "Requires that you have titanium production. Decrease any titanium production 1 step and increase your own 1 step.": "Vereist dat je titaniumproductie hebt. Verlaag de titaniumproductie van een speler met 1 en verhoog je eigen productie met 1.",
 
     "Deep Well Heating": "Diepe put verwarming",
-    "Increase your energy production 1 step. Increase temperature 1 step.": "Verhoog je energieproductie met 1. Verhoog de temperatuur met 2°C.",
+    "Increase your energy production 1 step. Increase temperature 1 step.": "Verhoog je energieproductie met 1. Verhoog de temperatuur met 1.",
 
     "Cloud Seeding": "Wolken zaaien",
     "Requires 3 ocean tiles. Decrease your M€ production 1 step and any heat production 1 step. Increase your plant production 2 steps.": "Vereist 3 of meer oceaantegels in het spel. Verlaag je M€-productie met 1 en warmteproductie van een speler met 1. Verhoog je plantproductie met 2.",
@@ -54,13 +54,13 @@
     "Requires 4 ocean tiles. Place this tile. Decrease your energy production 2 steps and increase your M€ production 5 steps.": "Vereist 4 of meer oceaantegels in het spel. Plaats deze stadstegel. Verlaag je energieproductie met 2 en verhoog je M€-productie met 5.",
     "1 additional VP for each ocean tile adjacent to this city tile.": "1 extra OP voor elke oceaantegel naast deze stadstegel.",
 
-    "Raise temperature 1 step and gain 2 titanium. Remove up to 3 plants from any player.": "Verhoog de temperatuur met 2 °C en ontvang 2 Titanium. Verwijder maximaal 3 planten van een speler.",
+    "Raise temperature 1 step and gain 2 titanium. Remove up to 3 plants from any player.": "Verhoog de temperatuur met 1 en ontvang 2 Titanium. Verwijder maximaal 3 planten van een speler.",
 
     "Comet": "Komeet inslag",
-    "Raise temperature 1 step and place an ocean tile. Remove up to 3 plants from any player.": "Verhoog de temperatuur met 2 °C en plaats 1 oceaantegel. Verwijder maximaal 3 planten van een speler.",
+    "Raise temperature 1 step and place an ocean tile. Remove up to 3 plants from any player.": "Verhoog de temperatuur met 1 en plaats 1 oceaantegel. Verwijder maximaal 3 planten van een speler.",
 
     "Big Asteroid": "Gigantische asteroïde",
-    "Raise temperature 2 steps and gain 4 titanium. Remove up to 4 plants from any player.": "Verhoog de temperatuur met 4 °C en ontvang 4 Titanium. Verwijder maximaal 4 planten van een speler.",
+    "Raise temperature 2 steps and gain 4 titanium. Remove up to 4 plants from any player.": "Verhoog de temperatuur met 2 en ontvang 4 Titanium. Verwijder maximaal 4 planten van een speler.",
 
     "Water Import From Europa": "Waterimport uit Europa",
     "Action: Pay 12 M€ to place an ocean tile. TITANIUM MAY BE USED as if playing a space card.": "ACTIE: Betaal 12 M€ om 1 oceaantegel te plaatsen. Titanium kan worden gebruikt alsof je een ruimte-kaart speelt.",
@@ -100,7 +100,7 @@
 
     "Arctic Algae": "Arctische algen",
     "(Effect: When anyone places an ocean tile, gain 2 plants.)": "(Effect: Als iemand een oceaantegel plaatst, krijg je 2 planten.)",
-    "It must be -12 C or colder to play. Gain 1 plant.": "De temperatuur moet -12°C of kouder zijn. Neem 1 plant.",
+    "It must be -12 C or colder to play. Gain 1 plant.": "De temperatuur moet -12 °C of kouder zijn. Neem 1 plant.",
 
     "Predators": "Roofdieren",
     "Action: Remove 1 animal from any card and add it to this card.": "ACTIE: Verwijder 1 dier van een andere kaart en voeg het toe aan deze kaart.",
@@ -111,7 +111,7 @@
     "Effect: When you play a space card, you pay 2 M€ less for it.": "EFFECT: Als je een ruimte-label speelt, betaal je 2 M€ minder.",
 
     "Eos Chasma National Park": "Eos Chasma Nationaalpark",
-    "Requires -12 C or warmer. Add 1 animal TO ANY ANIMAL CARD. Gain 3 plants. Increase your M€ production 2 steps.": "Vereist een temperatuur van -12°C of warmer. Voeg 1 dier toe aan een dierenkaart. Ontvang 3 planten. Verhoog je M€-productie met 2.",
+    "Requires -12 C or warmer. Add 1 animal TO ANY ANIMAL CARD. Gain 3 plants. Increase your M€ production 2 steps.": "Vereist een temperatuur van -12 °C of warmer. Voeg 1 dier toe aan een dierenkaart. Ontvang 3 planten. Verhoog je M€-productie met 2.",
 
     "Interstellar Colony Ship": "Interstellair kolonieschip",
     "Requires that you have 5 science tags.": "Vereist dat je 5 wetenschaps-labels hebt.",
@@ -136,7 +136,7 @@
     "Action: Add 1 microbe to this card, or remove 2 microbes from this card to raise oxygen level 1 step.": "ACTIE: Voeg 1 microbe toe aan deze kaart OF verwijder 2 microben van deze kaart om de zuurstof met 1% te verhogen.",
 
     "GHG Producing Bacteria": "CO₂ producerende bacteriën",
-    "Action: Add 1 microbe to this card, or remove 2 microbes to raise temperature 1 step.": "ACTIE: Voeg 1 microbe toe aan deze kaart OF verwijder 2 microben van deze kaart om de temperatuur met 2°C te verhogen.",
+    "Action: Add 1 microbe to this card, or remove 2 microbes to raise temperature 1 step.": "ACTIE: Voeg 1 microbe toe aan deze kaart OF verwijder 2 microben van deze kaart om de temperatuur met 1 te verhogen.",
     "Requires 4% oxygen.": "Vereist zuurstofgehalte van 4% of meer.",
 
     "Ants": "Mieren",
@@ -147,13 +147,13 @@
     "Raise your terraforming rating 2 steps.": "Verhoog je terraformniveau met 2.",
 
     "Nitrogen-Rich Asteroid": "Stikstofrijke asteroïde",
-    "Raise your terraforming rating 2 steps and temperature 1 step. Increase your plant production 1 step, or 4 steps if you have 3 plant tags.": "Verhoog je terraformniveau met 2 en de temperatuur met 2°C. Verhoog je plantproductie met 1 OF 4 als je minstens 3 plant-labels hebt.",
+    "Raise your terraforming rating 2 steps and temperature 1 step. Increase your plant production 1 step, or 4 steps if you have 3 plant tags.": "Verhoog je terraformniveau met 2 en de temperatuur met 1. Verhoog je plantproductie met 1 OF 4 als je minstens 3 plant-labels hebt.",
 
     "Rover Construction": "Mars Rover Ontwikkeling",
     "Effect: When any city tile is placed, gain 2 M€.": "EFFECT: Wanneer een stadstegel wordt geplaatst, ontvang je 2 M€.",
 
     "Deimos Down": "Deimos gecrasht",
-    "Raise temperature 3 steps and gain 4 steel. Remove up to 8 plants from any player.": "Verhoog de temperatuur met 6 °C en ontvang 4 staal. Verwijder maximaal 8 planten van een speler.",
+    "Raise temperature 3 steps and gain 4 steel. Remove up to 8 plants from any player.": "Verhoog de temperatuur met 3 en ontvang 4 staal. Verwijder maximaal 8 planten van een speler.",
 
     "Asteroid Mining": "Asteroïde mijnbouw",
     "Increase your titanium production 2 steps.": "Verhoog je titanium-productie met 2.",
@@ -215,10 +215,10 @@
     "Requires a Jovian tag. Increase your heat production and energy production 3 steps each.": "Vereist een eigen Jupiter-label. Verhoog je warmte- en energieproductie elk met 3.",
 
     "Mangrove": "",
-    "Requires +4 C or warmer. Place a greenery tile ON AN AREA RESERVED FOR OCEAN and raise oxygen 1 step. Disregard normal placement restrictions for this.": "Vereist een temperatuur van +4°C of warmer. Plaats een groentegel op een gebied dat gereserveerd is voor oceanen. Verhoog het zuurstofgehalte met 1%. Negeer de normale plaatsingsregels.",
+    "Requires +4 C or warmer. Place a greenery tile ON AN AREA RESERVED FOR OCEAN and raise oxygen 1 step. Disregard normal placement restrictions for this.": "Vereist een temperatuur van +4 °C of warmer. Plaats een groentegel op een gebied dat gereserveerd is voor oceanen. Verhoog het zuurstofgehalte met 1%. Negeer de normale plaatsingsregels.",
 
     "Trees": "Bomen",
-    "Requires -4 C or warmer. Increase your plant production 3 steps. Gain 1 plant.": "Vereist een temperatuur van -4°C of warmer. Verhoog je plantproductie met 3. Ontvang 1 plant.",
+    "Requires -4 C or warmer. Increase your plant production 3 steps. Gain 1 plant.": "Vereist een temperatuur van -4 °C of warmer. Verhoog je plantproductie met 3. Ontvang 1 plant.",
 
     "Great Escarpment Consortium": "Groot Rand Consortium",
     "Requires that you have steel production. Decrease any steel production 1 step and increase your own 1 step.": "Vereist eigen staalproductie. Verlaag de staalproductie van een speler met 1. Verhoog je staalproductie met 1.",
@@ -281,7 +281,7 @@
     "Requires 4 science tags. Increase your energy production 4 steps.": "Vereist 4 wetenschaps-labels. Verhoog je energieproductie met 4.",
 
     "Giant Ice Asteroid": "Gigantische ijsasteroïde",
-    "Raise temperature 2 steps and place 2 ocean tiles. Remove up to 6 plants from any player.": "Verhoog de temperatuur met 4 °C. Plaats 2 oceaantegels. Verwijder maximaal 6 planten van een speler.",
+    "Raise temperature 2 steps and place 2 ocean tiles. Remove up to 6 plants from any player.": "Verhoog de temperatuur met 2. Plaats 2 oceaantegels. Verwijder maximaal 6 planten van een speler.",
 
     "Ganymede Colony": "Ganymedes kolonie",
     "Place a city tile ON THE RESERVED AREA.": "Plaats een stadstegel OP HET GERESERVEERDE GEBIED.",
@@ -334,7 +334,7 @@
     "Gain 1 plant for each city tile in play.": "Ontvang 1 plant voor elke stadstegel die in het spel is.",
 
     "Nuclear Zone": "Nucleaire zone",
-    "Place this tile and raise temperature 2 steps.": "Plaats deze tegel. Verhoog de temperatuur met 4 °C.",
+    "Place this tile and raise temperature 2 steps.": "Plaats deze tegel. Verhoog de temperatuur met 2.",
 
     "Tropical Resort": "Tropisch vakantieoord",
     "Reduce your heat production 2 steps and increase your M€ production 3 steps.": "Verlaag je warmteproductie met 2. Verhoog je M€-productie met 3.",
@@ -452,7 +452,7 @@
 
     "Extreme-Cold Fungus": "Extreem koude schimmel",
     "Action: Gain 1 plant, or add 2 microbes to ANOTHER card.": "ACTIE: Ontvang 1 Plant of voeg 2 microben toe aan een andere kaart.",
-    "It must be -10 C or colder.": "De temperatuur moet -10°C of kouder zijn.",
+    "It must be -10 C or colder.": "De temperatuur moet -10 °C of kouder zijn.",
 
     "Advanced Ecosystems": "Geavanceerd ecosysteem",
     "Requires a plant tag, a microbe tag, and an animal tag.": "Vereist een label van een plant, een microbe en een dier.",
@@ -470,7 +470,7 @@
     "Requires 3 ocean tiles. Increase your energy production 1 step.": "Vereist 3 of meer oceaantegels in het spel. Verhoog je energieproductie met 1.",
 
     "Lava Flows": "Lavastromen",
-    "Raise temperature 2 steps and place this tile ON EITHER THARSIS THOLUS, ASCRAEUS MONS, PAVONIS MONS OR ARSIA MONS.": "Verhoog de temperatuur met 4°C. Plaats deze tegel op Tharsis Tholus of Ascraeus Mons of Pavonis Mons of Arsia Mons.",
+    "Raise temperature 2 steps and place this tile ON EITHER THARSIS THOLUS, ASCRAEUS MONS, PAVONIS MONS OR ARSIA MONS.": "Verhoog de temperatuur met 2. Plaats deze tegel op Tharsis Tholus of Ascraeus Mons of Pavonis Mons of Arsia Mons.",
 
     "Increase your energy production 1 step.": "Verhoog je energieproductie met 1.",
 

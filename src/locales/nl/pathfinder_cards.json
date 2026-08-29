@@ -19,7 +19,7 @@
 
     "Breeding Farms": "Fokkerijen",
     "(Action: Spend 1 plant to add 1 animal to ANY card.)": "(ACTIE: Verbruik 1 plant om 1 dier toe te voegen aan een willekeurige kaart.)",
-    "Requires 1 science tag and 1 animal tag. Raise the temperature 1 step.": "Vereist 1 wetenschaps- en 1 dier-label. Verhoog de temperatuur met 2 °C.",
+    "Requires 1 science tag and 1 animal tag. Raise the temperature 1 step.": "Vereist 1 wetenschaps- en 1 dier-label. Verhoog de temperatuur met 1.",
 
     "Cassini Station": "Cassini-ruimtestation",
     "Increase your energy production 1 step for every colony in play. Add 2 floaters to ANY card OR add 3 data to ANY card.": "Verhoog je energieproductie met 1 voor elke kolonie in het spel. Voeg 2 floaters OF 3 data toe aan een willekeurige kaart.",
@@ -193,10 +193,10 @@
     "Requires 2 science tags. Increase your steel production 3 steps.": "Vereist 2 van je eigen wetenschaps-labels. Verhoog je staalproductie met 3.",
 
     "Secret Labs": "Geheim laboratorium",
-    "Requires 1 science tag and 1 Jovian tag. Place an ocean tile. Add 2 microbes to ANY card. OR Raise temperature 1 step. Gain 3 plants. OR Raise oxygen level 1 step. Add 2 floaters to ANY card.": "Vereist 1 eigen wetenschaps- en 1 Jupiter-label. Plaats 1 oceaantegel en krijg 2 microben OF verhoog de temperatuur met 2°C en krijg 3 planten OF verhoog zuurstof met 1% en verkrijg 2 floaters.",
+    "Requires 1 science tag and 1 Jovian tag. Place an ocean tile. Add 2 microbes to ANY card. OR Raise temperature 1 step. Gain 3 plants. OR Raise oxygen level 1 step. Add 2 floaters to ANY card.": "Vereist 1 eigen wetenschaps- en 1 Jupiter-label. Plaats 1 oceaantegel en krijg 2 microben OF verhoog de temperatuur met 1 en krijg 3 planten OF verhoog zuurstof met 1% en verkrijg 2 floaters.",
 
     "Small Comet": "Kleine komeet",
-    "Every player loses 2 plants. Raise the temperature 1 step. Raise the oxygen 1 step. Place an ocean ON AN AREA NOT RESERVED FOR OCEAN. Gain 1 titanium.": "Verhoog de temperatuur met 2°C. Verhoog het zuurstofgehalte met 1%. Plaats een oceaantegel op een gebied dat niet gereserveerd is voor oceanen. Ontvang 1 titanium. Alle spelers verliezen 2 planten.",
+    "Every player loses 2 plants. Raise the temperature 1 step. Raise the oxygen 1 step. Place an ocean ON AN AREA NOT RESERVED FOR OCEAN. Gain 1 titanium.": "Verhoog de temperatuur met 2 °C. Verhoog het zuurstofgehalte met 1%. Plaats een oceaantegel op een gebied dat niet gereserveerd is voor oceanen. Ontvang 1 titanium. Alle spelers verliezen 2 planten.",
 
     "Small Open Pit Mine": "Kleine open mijn",
     "Increase your steel production 2 steps OR increase your titanium production 1 step.": "Verhoog je staalproductie met 2 OF verhoog je titaniumproductie met 1.",
@@ -209,7 +209,7 @@
     "Requires that Greens are ruling or you have 2 delegates there. Increase your plant production 1 step": "Vereist regerende partij: DE GROENEN of 2+ eigen afgevaardigden daar. Verhoog je plantproductie met 1.",
 
     "Solar Storm": "Zonnestorm",
-    "Every player loses 2 plants. Remove up to 3 data from any player. Raise your heat production 1 step. Raise the temperature 1 step.": "Verhoog de temperatuur met 2°C. Verhoog je warmteproductie met 1. Verwijder maximaal 3 data van een andere speler. Alle spelers verliezen 2 planten.",
+    "Every player loses 2 plants. Remove up to 3 data from any player. Raise your heat production 1 step. Raise the temperature 1 step.": "Verhoog de temperatuur met 2 °C. Verhoog je warmteproductie met 1. Verwijder maximaal 3 data van een andere speler. Alle spelers verliezen 2 planten.",
 
     "Solarpedia": "",
     "(Action: Add 2 data to ANY card.)": "(ACTIE: voeg 2 data toe aan een willekeurige kaart.)",
